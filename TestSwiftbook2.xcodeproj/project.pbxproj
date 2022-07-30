@@ -13,6 +13,7 @@
 		3E34D23928951C0200899E5C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E34D23728951C0200899E5C /* Main.storyboard */; };
 		3E34D23B28951C0500899E5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E34D23A28951C0500899E5C /* Assets.xcassets */; };
 		3E34D23E28951C0500899E5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E34D23C28951C0500899E5C /* LaunchScreen.storyboard */; };
+		3E34D24628951E9000899E5C /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E34D24528951E9000899E5C /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3E34D23A28951C0500899E5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E34D23D28951C0500899E5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E34D23F28951C0500899E5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E34D24528951E9000899E5C /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3E34D23128951C0200899E5C /* AppDelegate.swift */,
 				3E34D23328951C0200899E5C /* SceneDelegate.swift */,
 				3E34D23528951C0200899E5C /* ViewController.swift */,
+				3E34D24528951E9000899E5C /* LoginViewController.swift */,
 				3E34D23728951C0200899E5C /* Main.storyboard */,
 				3E34D23A28951C0500899E5C /* Assets.xcassets */,
 				3E34D23C28951C0500899E5C /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E34D24628951E9000899E5C /* LoginViewController.swift in Sources */,
 				3E34D23628951C0200899E5C /* ViewController.swift in Sources */,
 				3E34D23228951C0200899E5C /* AppDelegate.swift in Sources */,
 				3E34D23428951C0200899E5C /* SceneDelegate.swift in Sources */,
